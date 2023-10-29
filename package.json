@@ -1,0 +1,21 @@
+{
+  "name": "chat-with-document",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "hnswlib-node": "^1.4.2",
+    "langchain": "^0.0.175",
+    "node-fetch": "^3.3.2",
+    "pdf-parse": "^1.1.1",
+    "twilio": "^4.19.0"
+  }
+}
